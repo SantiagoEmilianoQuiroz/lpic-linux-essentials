@@ -224,6 +224,7 @@ Linux es tremendamente modular. Inicialmente se trabajaba únicamente con un int
 
 **GNOME**
 Usado por defecto en muchas distribuciones (por ejemplo Ubuntu) intenta facilitar lo máximo posible el uso del sistema. Utiliza las librerías GTK que estánescritas en el lenguaje C. 
+
 **KDE**
 Tradicionalmente lo han elegido usuarios un poco más avanzados ya que ofrece mayores opciones de configuración y los nuevos diseños también están muy logrados. Utiliza las librerías Qt que están escritas en el lenguaje C++. 
 Normalmente los programas que han sido creados en una de estos entornos de desarrollo (GTK o Qt) suelen funcionar en ambos escritorios, pero si se comparten ecosistema se puede ahorrar memoria y aumentar el rendimiento.
